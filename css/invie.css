@@ -12,6 +12,10 @@ input:focus, textarea:focus {
     background: lightgray;
 }
 
+.header.background {
+    padding-top: 20px;
+}
+
 .background {
     background-image: url('../images/background.png');
     background-size: cover;
