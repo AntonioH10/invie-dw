@@ -12,7 +12,7 @@ input:focus, textarea:focus {
     background: lightgray;
 }
 
-.header .background {
+.header.background {
     padding-top: 20px;
 }
 
